@@ -12,4 +12,4 @@
 ## 📂 Categories
 
 ### 🌿 Git
-- [얄코 깃 강의 요약 - 기본 명령어 및 브랜치 전략](./Git/2026-04-07-yalco-git-basic.md)
+- [깃 기본 - 기본 명령어 및 브랜치 전략](./Git/2026-04-07-git-basic.md)
