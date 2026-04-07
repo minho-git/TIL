@@ -12,4 +12,4 @@
 ## 📂 Categories
 
 ### 🌿 Git
-- [깃 기본 - 기본 명령어 및 브랜치 전략](./Git/2026-04-07-git-basic.md)
+- [깃 개념 기본 명령어](./Git/2026-04-07-git-basic.md)
